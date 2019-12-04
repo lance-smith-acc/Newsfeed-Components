@@ -44,6 +44,5 @@ menuItems.forEach(data => {
 
 menu.addEventListener('click', () => {
   menuShell.classList.toggle('menu--open');
-  return menu;
 })
 
